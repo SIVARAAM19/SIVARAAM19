@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIVARAAM19 pursuing BTECH (computer science) degree in PUDUCHERRY TECHNOLOGICAL UNIVERSITY 
 - 👀 I’m interested in any developing stuffs such as mobile apps, chatbots and web applications
-- 🌱 I’m currently pursuing BTECH (computer science) degree in PUDUCHERRY TECHNOLOGICAL UNIVERSITY
+- 🌱 BTECH (computer science) degree in PUDUCHERRY TECHNOLOGICAL UNIVERSITY
 - 💞️ I’m looking to collaborate on Web development and chatbot creation
 - 📫 reach me with sivaraam9724@gmail.com
 
